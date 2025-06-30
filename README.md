@@ -164,8 +164,8 @@ This project is open source and available under no specific license. Feel free t
 ## 📞 Contact
 
 - **Email**: anaufalfadhil@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/fadhil-annaufal-musyafa-0223a2372)
-- **GitHub**: [Your GitHub Profile](ps://github.com/KEI404-A)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/fadhil-annaufal-musyafa-0223a2372)
+- **GitHub**: [My GitHub Profile](https://github.com/KEI404-A)
 - **Portfolio**: [Live Demo](https://KEI404-A.github.io/Portfolio)
 
 ---
