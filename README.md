@@ -142,7 +142,7 @@ Update the color scheme in `assets/css/style.css`:
 2. Go to repository Settings
 3. Scroll to Pages section
 4. Select source branch (main/master)
-5. Your site will be available at `https://KEI404-A.github.io/Portfolio`
+5. Your site will be available at `https://kei404-a.github.io/My-Portofolio`
 
 ### Other Platforms
 - **Netlify**: Drag and drop deployment
@@ -166,7 +166,7 @@ This project is open source and available under no specific license. Feel free t
 - **Email**: anaufalfadhil@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/fadhil-annaufal-musyafa-0223a2372)
 - **GitHub**: [My GitHub Profile](https://github.com/KEI404-A)
-- **Portfolio**: [Live Demo](https://KEI404-A.github.io/Portfolio)
+- **Portfolio**: [Live Demo](https://kei404-a.github.io/My-Portofolio)
 
 ---
 
