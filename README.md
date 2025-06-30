@@ -42,7 +42,7 @@ Portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Portfolio.git
+   git clone https://github.com/KEI404-A/My-Portofolio.git
    ```
 
 2. **Navigate to project directory**
